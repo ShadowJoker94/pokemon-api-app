@@ -3,6 +3,9 @@ The Pokemon Api App is an nostalgic reminder that no matter the era it is a cons
 want to see a glimpse of the past in Pokemon Figures trough Api configurations.
 
 # pokemon-api-app
+The Pokemon Api App is an nostalgic reminder that no matter the era it is a constant reminder for those who still
+want to see a glimpse of the past in Pokemon Figures trough Api configurations.
+
 
  Team Rocket Pokémon API Application
 
